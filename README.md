@@ -1,6 +1,6 @@
 # Task Manager RESTful-API
 
-API is made using **NodeJS**, **ExpressJS** and **MongoDB** and it follows a **RESTFul API** design architecture.
+API is made using **NodeJS**, **ExpressJS** and **MongoDB** and it follows a **RESTful API** design architecture.
 
 ## Features
 

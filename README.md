@@ -11,7 +11,7 @@ API is made using **NodeJS**, **ExpressJS** and **MongoDB** and it follows a **R
 
 ## Hosted URL
 
-https://arora-task-manager-api.herokuapp.com/
+https://task-manager-api-mu.vercel.app/
 
 ## API Endpoints
 
